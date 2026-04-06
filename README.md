@@ -1,4 +1,4 @@
-## oi! eu sou e caio.
+## oi! eu sou e caio estudante de ads.
 
 - 🌱estudando java, SQl, spring boot
 - 🌱 contate-me pelo email: caiobispo543@gmail.com
